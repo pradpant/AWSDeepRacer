@@ -8,7 +8,12 @@ Traning:
 AWS DeepRacer leverages Amazon SageMaker to train your model behind the scenes and uses AWS RoboMaker to simulate the agent's interaction with the environment. Watch how the agent behaves in the chosen environment, as prescribed by the reward function.
 
 So i have tried with two models:
-# Model 1: 
+# Model 1: 60 minutes Training 
+This is where i have trained the model for 60 minutes where it completes 3 Laps in 06:35.173.
+
+<img src="assets/flash1.JPG" height="400em" width="400em"/>  <img src="assets/flash1Time.gif" height="400em" width="600em"/>
+
+# Model 2: 360 minutes Training  
 This is where i have trained the model for 60 minutes where it completes 3 Laps in 06:35.173.
 
 <img src="assets/flash1.JPG" height="400em" width="400em"/>  <img src="assets/flash1Time.gif" height="400em" width="600em"/>
