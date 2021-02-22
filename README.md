@@ -37,4 +37,8 @@ Number of experience episodes between each policy-updating iteration	20
 Number of epochs	10
 
 
-#You can see the Source code at <a href="https://github.com/pradpant/AWSDeepRacer/tree/project">Project Branch </a>.
+#You can see the Source code at <a href="https://github.com/pradpant/AWSDeepRacer/tree/projectModel1">Project Model 1 </a>.
+
+
+#You can see the Source code at <a href="https://github.com/pradpant/AWSDeepRacer/tree/projectModel2">Project Model 2 </a>.
+
