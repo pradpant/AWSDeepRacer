@@ -11,7 +11,7 @@ So i have tried with two models:
 # Model 1: 
 This is where i have trained the model for 60 minutes where it completes 3 Laps in 06:35.173.
 
-<img src="assets/flash1.JPG" height="400em" width="600em"/>  <img src="assets/flash1Time.gif" height="400em" width="600em"/>
+<img src="assets/flash1.JPG" height="400em" width="400em"/>  <img src="assets/flash1Time.gif" height="400em" width="600em"/>
 
 
 # Training configuration
